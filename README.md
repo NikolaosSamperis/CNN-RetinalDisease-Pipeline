@@ -8,7 +8,7 @@
 [![Albumentations](https://img.shields.io/badge/Albumentations-Augmentations-brightgreen)](https://albumentations.ai/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-blue?logo=scikit-learn)](https://scikit-learn.org/)
 
-# 🧠 CNN-RetinalDisease-Pipeline
+# 🧠 CNN Retinal Disease Pipeline
 
 **Automated Cataract and Glaucoma Detection via Fundus Image Classification using Deep Learning**  
 *A comparative study of EfficientNetB0 and DenseNet-121 with transfer learning, data augmentation, and contrast enhancement.*
