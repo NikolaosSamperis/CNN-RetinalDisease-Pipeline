@@ -40,6 +40,19 @@ This project explores the use of **deep convolutional neural networks (CNNs)** f
 
 ---
 
+## 🖼️ Image Preprocessing Pipeline
+
+The figure below illustrates the image preprocessing pipeline applied to retinal fundus images across all three classes (Normal, Cataract, Glaucoma). The steps include:
+
+- Raw image capture  
+- CLAHE contrast enhancement  
+- Resizing to 224×224 pixels  
+- Data augmentation (e.g., rotation, flipping)
+
+![Image Preprocessing Pipeline](./assets/image_preprocessing_pipeline.png)
+
+---
+
 ## 📁 Repository Structure
 
 ```
