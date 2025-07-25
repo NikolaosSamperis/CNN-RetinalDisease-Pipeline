@@ -5,7 +5,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red?logo=keras)](https://keras.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-blue?logo=opencv)](https://opencv.org/)
-[![Albumentations](https://img.shields.io/badge/Albumentations-Augmentations-brightgreen)](https://albumentations.ai/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-blue?logo=scikit-learn)](https://scikit-learn.org/)
 
 # 🧠 CNN Retinal Disease Pipeline
