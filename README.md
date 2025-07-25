@@ -15,7 +15,7 @@
 
 ## 📌 Project Overview
 
-This project explores the use of **deep convolutional neural networks (CNNs)** for classifying retinal fundus images into three categories: **Normal**, **Cataract**, and **Glaucoma**. It investigates two popular architectures—EfficientNetB0 and DenseNet-121—through a series of experiments involving transfer learning, preprocessing (CLAHE), dataset balancing, and custom classification heads.
+This project explores the use of **deep convolutional neural networks (CNNs)** for classifying retinal fundus images into three categories: **Normal**, **Cataract**, and **Glaucoma**. It investigates two popular architectures—EfficientNetB0 and DenseNet-121—through a series of experiments involving transfer learning, preprocessing (CLAHE), dataset balancing, and a custom classification head.
 
 ---
 
