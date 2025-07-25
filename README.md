@@ -8,17 +8,6 @@
 [![Albumentations](https://img.shields.io/badge/Albumentations-Augmentations-brightgreen)](https://albumentations.ai/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-blue?logo=scikit-learn)](https://scikit-learn.org/)
 
-
-[Notebook (Google Colab)](https://colab.research.google.com/drive/1-rAbH-aQBs9hCh4e7p0crPhQbWJvsZlw) • 
-[EfficientNet (Paper)](https://arxiv.org/abs/1905.11946) • 
-[DenseNet-121 (Paper)](https://arxiv.org/abs/1608.06993) • 
-[CLAHE Overview](https://en.wikipedia.org/wiki/Adaptive_histogram_equalization) • 
-[TensorFlow](https://www.tensorflow.org/) • 
-[Keras](https://keras.io/) • 
-[OpenCV](https://opencv.org/) • 
-[Albumentations](https://albumentations.ai/) • 
-[scikit-learn](https://scikit-learn.org/)
-
 # 🧠 CNN-RetinalDisease-Pipeline
 
 **Automated Cataract and Glaucoma Detection via Fundus Image Classification using Deep Learning**  
