@@ -57,12 +57,16 @@ The figure below illustrates the image preprocessing pipeline applied to retinal
 
 ```
 .
+├── assets/
+│   └── image_preprocessing_pipeline.png  # Visual summary of preprocessing pipeline
 ├── notebooks/
-│   └── Pipeline.ipynb             # Core Jupyter Notebook
-├── LICENSE.txt                   # Project license        
-├── README.md                    # Project overview
-├── requirements.txt            # Python dependencies                 
-└── 📁 Google Drive (linked)   # Raw and processed images, train/val/test splits
+│   └── Pipeline.ipynb                    # Core Jupyter Notebook
+├── AI_final_report.pdf                   # Final report summarizing project findings
+├── LICENSE.txt                           # MIT License file
+├── README.md                             # Project documentation
+├── requirements.txt                      # Python dependencies
+└── (external) Google Drive link          # Dataset: raw, processed, augmented images
+
 ```
 
 ## 📁 Dataset Access
