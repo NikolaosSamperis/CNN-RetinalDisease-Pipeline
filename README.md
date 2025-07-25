@@ -46,9 +46,21 @@ This project explores the use of **deep convolutional neural networks (CNNs)** f
 ├── notebooks/
 │   └── Pipeline.ipynb              # Core Jupyter Notebook
 ├── requirements.txt               # Python dependencies
-├── README.md                      # Project overview
-└── (Optional) data/               # Raw and processed images (if uploaded)
+├── README.md                     # Project overview
+└── 📁 Google Drive (linked)     # Raw and processed images, train/val/test splits
 ```
+
+## 📁 Dataset Access
+
+The raw and processed fundus image datasets used in this project are available on Google Drive:
+
+🔗 [Access the dataset here](https://drive.google.com/drive/folders/18HJRbyhWfaJok8r070PRf5G1ZxfyCb4W?usp=sharing)
+
+This includes:
+- Raw images
+- CLAHE-enhanced images
+- Augmented training sets
+- Train/validation/test splits
 
 ---
 
