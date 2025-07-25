@@ -33,10 +33,10 @@ This project explores the use of **deep convolutional neural networks (CNNs)** f
 
 ## 🧪 Model Comparison
 
-| Model          | Best Accuracy | Glaucoma F1-score | AUC-ROC (avg) |
-|----------------|---------------|--------------------|----------------|
-| **EfficientNetB0** | 83%          | 71%               | ~0.92          |
-| **DenseNet-121**   | 81%          | 67%               | ~0.91          |
+| Model (Experiment)      | Accuracy | Normal AUC | Cataract AUC | Glaucoma AUC | Normal F1 | Cataract F1 | Glaucoma F1 |
+|-------------------------|----------|------------|--------------|--------------|-----------|-------------|-------------|
+| EfficientNetB0 (Exp. 8) | **83%**  | 0.90       | 0.94         | **0.91**     | 0.88      | 0.82        | **0.71**    |
+| DenseNet-121 (Exp. 3)   | 81%      | 0.87       | **0.98**     | 0.88         | 0.85      | 0.85        | 0.67        |
 
 ---
 
