@@ -1,3 +1,14 @@
+[![Colab](https://img.shields.io/badge/Notebook-Google%20Colab-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![EfficientNet](https://img.shields.io/badge/EfficientNet-Paper-blue)](https://arxiv.org/abs/1905.11946)
+[![DenseNet](https://img.shields.io/badge/DenseNet121-Paper-blue)](https://arxiv.org/abs/1608.06993)
+[![CLAHE](https://img.shields.io/badge/CLAHE-Contrast_Enhancement-lightgrey)](https://en.wikipedia.org/wiki/Adaptive_histogram_equalization)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red?logo=keras)](https://keras.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-blue?logo=opencv)](https://opencv.org/)
+[![Albumentations](https://img.shields.io/badge/Albumentations-Augmentations-brightgreen)](https://albumentations.ai/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-blue?logo=scikit-learn)](https://scikit-learn.org/)
+
+
 [Notebook (Google Colab)](https://colab.research.google.com/drive/1-rAbH-aQBs9hCh4e7p0crPhQbWJvsZlw) • 
 [EfficientNet (Paper)](https://arxiv.org/abs/1905.11946) • 
 [DenseNet-121 (Paper)](https://arxiv.org/abs/1608.06993) • 
