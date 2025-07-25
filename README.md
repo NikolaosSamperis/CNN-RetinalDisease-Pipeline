@@ -45,10 +45,11 @@ This project explores the use of **deep convolutional neural networks (CNNs)** f
 ```
 .
 ├── notebooks/
-│   └── Pipeline.ipynb              # Core Jupyter Notebook
-├── requirements.txt               # Python dependencies
-├── README.md                     # Project overview
-└── 📁 Google Drive (linked)     # Raw and processed images, train/val/test splits
+│   └── Pipeline.ipynb             # Core Jupyter Notebook
+├── LICENSE.txt                   # Project license        
+├── README.md                    # Project overview
+├── requirements.txt            # Python dependencies                 
+└── 📁 Google Drive (linked)   # Raw and processed images, train/val/test splits
 ```
 
 ## 📁 Dataset Access
