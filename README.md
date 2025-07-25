@@ -111,7 +111,7 @@ pip install -r requirements.txt
 
 ## 📊 Results Summary
 
-- **Experiment 8 (EfficientNetB0)** achieved the highest accuracy (83%) and best glaucoma classification performance.
+- **Experiment 8 (EfficientNetB0)** achieved the highest classification performance, with AUC scores of 0.90 for Normal, 0.94 for Cataract, and 0.91 for Glaucoma, indicating strong generalization across all classes and particularly robust glaucoma detection.
 - CLAHE preprocessing enhanced visual clarity, especially for low-contrast features.
 - Dataset balancing and class weighting significantly improved model robustness.
 - Focal loss required careful tuning to avoid instability.
