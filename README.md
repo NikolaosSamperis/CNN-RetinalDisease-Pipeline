@@ -110,7 +110,11 @@ pip install -r requirements.txt
 
 ## 📄 License
 
-This project is released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+This project was created for educational purposes as part of coursework.
+
+Feel free to use, modify, and share the code **with proper attribution**. Please note that this project is provided as-is, without any warranty or guarantee of functionality.
+
+If you use this code, kindly credit the original author by linking back to this repository.
 
 ---
 
